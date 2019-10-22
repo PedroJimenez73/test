@@ -30,6 +30,8 @@ input[type=radio] {
     border-radius: 50%;
   }
 
+  /* checked */
+
 .radio input:checked ~ .checkmark.yellow {
     background-color: greenyellow;
 }
